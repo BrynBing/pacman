@@ -1,7 +1,17 @@
 # Pac-Man Game Project (Extended)
 
 ## How to Run the Code
+This project requires:
 
+- JDK 17 or higher
+- Gradle 7.4.2 (via `gradlew`, automatically handled)
+
+To build the project, simply run:
+
+```bash
+./gradlew build    # on Linux/macOS
+gradlew.bat build  # on Windows
+```
 To run the game, use the following command in your terminal:
 
 ```bash
